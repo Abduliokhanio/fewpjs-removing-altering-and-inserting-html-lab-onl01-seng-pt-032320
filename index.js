@@ -1,2 +1,2 @@
 // Write your code here!
-document.getElementById.remove("main")
+document.getElementById.remove("body#main")
